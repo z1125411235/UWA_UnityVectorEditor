@@ -1,5 +1,7 @@
 UWA網址___https://lab.uwa4d.com/lab/5b432980d7f10a201fad1b56?fbclid=IwAR0QisBIXayI6vK20NtdX4BcrNofw_f5qypaBVTij6Shw0FX1UFsHce5IyA
 
-Github網址___https://github.com/ecurtz/UnityVectorEditor
+本人Github網址___https://github.com/z1125411235/UWA_UnityVectorEditor
+
+官方Github網址___https://github.com/ecurtz/UnityVectorEditor
 
 版本:2018.1以上
